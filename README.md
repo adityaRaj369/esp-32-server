@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/8c0c86e5-34e3-45ea-83dc-a9a94a2f9300)
 
+![WhatsApp Image 2025-03-20 at 23 32 43_316ca419](https://github.com/user-attachments/assets/eab749b0-154d-433d-98db-93217105ff09)
 
 # Network Attached Storage (NAS) 📡💾
 
