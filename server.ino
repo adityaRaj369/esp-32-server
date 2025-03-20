@@ -3,8 +3,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char *ssid = "edge 40 neo_9314";  // Replace with your WiFi SSID
-const char *password = "qwertyuiop";    // Replace with your WiFi password
+const char *ssid = "";  // Replace with your WiFi SSID
+const char *password = "";    // Replace with your WiFi password
 const char *serverBaseUrl = "https://esp-32-server.onrender.com"; // Your Render URL
 const int CS = 5;
 
