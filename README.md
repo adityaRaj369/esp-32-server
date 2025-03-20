@@ -171,4 +171,3 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ by [yourusername] | Powered by ESP32 & Render*
