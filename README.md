@@ -36,8 +36,6 @@ Welcome to **Network Attached Storage (NAS)**! This project transforms your ESP3
 3. **Local Storage**  
    Files are saved to the ESP32’s SD card for local access.
 
-![Workflow](https://via.placeholder.com/400x200.png?text=Upload+to+Sync+Workflow)  
-*Workflow: Upload → Server → ESP32 → SD Card (replace with your own image).*
 
 ---
 
