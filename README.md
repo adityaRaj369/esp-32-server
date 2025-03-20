@@ -63,7 +63,7 @@ Welcome to **Network Attached Storage (NAS)**! This project transforms your ESP3
 
 
 
-git clone https://github.com/yourusername/network-attached-storage.git
+git clone https://github.com/adityaRaj369/esp-32-server
 cd network-attached-storage
 
 
